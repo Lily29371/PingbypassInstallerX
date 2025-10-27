@@ -1,7 +1,9 @@
 # PingbypassInstallerX
 # request :
 - VPS
+- good at using command line.
 # warning : 
+- shell files do not guarantee stability.
 - use ubuntu lts instead of debian... on your vps.
 - download the above shell file, give execute permission to the shell and run , Your job is to do things like: enter port, password, 3arthh4ck version and password, email to headlessMc.
 - Always keep the VPS capacity at 900mb (if the server has 2gb or 3gb, depending) for the VPS to operate stably without crashing.
