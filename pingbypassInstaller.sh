@@ -59,7 +59,7 @@ sleep 1
 # use plain read prompts (avoid nested $'..' quoting)
 read -p "What port would you like to use for Pingbypass? " openport
 read -p "What password would you like the Pingbypass server to use? " pass
-read -p "What is the latest RELEASE version of 3arthh4ck on Github? (e.g. 1.8.4) " ver
+read -p "What is the latest RELEASE version of 3arthh4ck on Github? (1.8.8?) " ver
 
 # install java if it hasn't been installed before (basic check)
 if [ ! -x "$javadir/java" ]; then
